@@ -414,5 +414,4 @@ A: You need the SQL file for sure. The guides are helpful but optional. Bookmark
 
 This database is ready. Your teammates will thank you! 🎉
 
----
 
